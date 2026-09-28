@@ -11,8 +11,8 @@
   <img src="https://cdn.simpleicons.org/typescript?viewbox=auto" height="28" alt="TypeScript">
   <img src="https://cdn.simpleicons.org/react?viewbox=auto" height="28" alt="React">
   <img src="https://cdn.simpleicons.org/redux?viewbox=auto" height="28" alt="Redux">
-  <img src="https://cdn.simpleicons.org/webpack?viewbox=auto" height="28" alt="Webpack">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" />
 </p>
 <p align="center">

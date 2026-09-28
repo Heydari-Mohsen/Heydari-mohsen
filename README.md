@@ -4,15 +4,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : `𝗠𝗮𝘀𝘁𝗲𝗿'𝘀 𝘀𝘁𝘂𝗱𝗲𝗻𝘁`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗶𝗲𝗹𝗱 𝗼𝗳 𝗪𝗼𝗿𝗸:` 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁...`
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗦𝗸𝗶𝗹𝗹𝘀 :` 𝗛𝘁𝗺𝗹 - 𝗖𝗦𝗦 - 𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗥𝗲𝗮𝗰𝘁 - 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 - 𝗻𝗲𝘅𝘁.𝗷𝘀 ...`
-<p>
+<p align='center'>
   <img src="https://cdn.simpleicons.org/html5?viewbox=auto" height="28" alt="HTML">
-  <img src="https://cdn.simpleicons.org/css?viewbox=auto" height="28" alt="CSS">
+  <img src="https://cdn.simpleicons.org/css3?viewbox=auto" height="28" alt="CSS3">
   <img src="https://cdn.simpleicons.org/javascript?viewbox=auto" height="28" alt="JavaScript">
   <img src="https://cdn.simpleicons.org/typescript?viewbox=auto" height="28" alt="TypeScript">
   <img src="https://cdn.simpleicons.org/react?viewbox=auto" height="28" alt="React">
   <img src="https://cdn.simpleicons.org/redux?viewbox=auto" height="28" alt="Redux">
   <img src="https://cdn.simpleicons.org/webpack?viewbox=auto" height="28" alt="Webpack">
   <img src="https://cdn.simpleicons.org/nextdotjs?viewbox=auto" height="28" alt="Next.js">
+  <img src="https://cdn.simpleicons.org/python?viewbox=auto" height="28" alt="Python">
 </p>
 
 ---

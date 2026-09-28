@@ -1,4 +1,4 @@
-## ✦ ✦ A Perspective :
+##  ✦ A Perspective :
 
 <p align="center">
 ɪɴ ᴀ ᴡᴏʀʟᴅ ᴡʜᴇʀᴇ ᴇᴠᴇʀʏᴛʜɪɴɢ ꜱᴇᴇᴍꜱ ᴛᴏ ʙᴇ ᴘʀᴇᴅᴇꜰɪɴᴇᴅ,</br>

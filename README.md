@@ -5,13 +5,14 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗦𝗸𝗶𝗹𝗹𝘀 :` 𝗛𝘁𝗺𝗹 - 𝗖𝗦𝗦 - 𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗥𝗲𝗮𝗰𝘁 - 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 - 𝗻𝗲𝘅𝘁.𝗷𝘀 ...`
 <p>
-  <img src="https://cdn.simpleicons.org/html5" width="30" height="30" alt="HTML">
-  <img src="https://cdn.simpleicons.org/css" width="30" height="30" alt="CSS">
-  <img src="https://cdn.simpleicons.org/javascript" width="30" height="30" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/typescript" width="30" height="30" alt="TypeScript">
-  <img src="https://cdn.simpleicons.org/react" width="30" height="30" alt="React">
-  <img src="https://cdn.simpleicons.org/webpack" width="30" height="30" alt="Webpack">
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="30" height="30" alt="Next.js">
+  <img src="https://cdn.simpleicons.org/html5?viewbox=auto" height="28" alt="HTML">
+  <img src="https://cdn.simpleicons.org/css?viewbox=auto" height="28" alt="CSS">
+  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto" height="28" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/typescript?viewbox=auto" height="28" alt="TypeScript">
+  <img src="https://cdn.simpleicons.org/react?viewbox=auto" height="28" alt="React">
+  <img src="https://cdn.simpleicons.org/redux?viewbox=auto" height="28" alt="Redux">
+  <img src="https://cdn.simpleicons.org/webpack?viewbox=auto" height="28" alt="Webpack">
+  <img src="https://cdn.simpleicons.org/nextdotjs?viewbox=auto" height="28" alt="Next.js">
 </p>
 
 ---

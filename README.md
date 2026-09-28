@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 14px;">
+<p align="center" style="font-size: 14;">
 ● 𝐍𝐚𝐦𝐞 : 𝐌𝐨𝐡𝐬𝐞𝐧 𝐇𝐞𝐲𝐝𝐚𝐫𝐢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝐁𝐢𝐫𝐭𝐡𝐝𝐚𝐲 : 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟎𝟐●
 <br>
 ● 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗠𝗮𝘀𝘁𝗲𝗿'𝘀 𝘀𝘁𝘂𝗱𝗲𝗻𝘁&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗶𝗲𝗹𝗱 𝗼𝗳 𝗪𝗼𝗿𝗸: 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁...

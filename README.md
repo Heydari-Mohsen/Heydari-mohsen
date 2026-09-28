@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗦𝗸𝗶𝗹𝗹𝘀 :` 𝗛𝘁𝗺𝗹 - 𝗖𝗦𝗦 - 𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗥𝗲𝗮𝗰𝘁 - 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 - 𝗻𝗲𝘅𝘁.𝗷𝘀 ...`
 <p align='center'>
   <img src="https://cdn.simpleicons.org/html5?viewbox=auto" height="28" alt="HTML">
-  <img src="https://cdn.simpleicons.org/css3?viewbox=auto" height="28" alt="CSS3">
+  <img src="https://cdn.simpleicons.org/css" height="28" alt="CSS3">
   <img src="https://cdn.simpleicons.org/javascript?viewbox=auto" height="28" alt="JavaScript">
   <img src="https://cdn.simpleicons.org/typescript?viewbox=auto" height="28" alt="TypeScript">
   <img src="https://cdn.simpleicons.org/react?viewbox=auto" height="28" alt="React">

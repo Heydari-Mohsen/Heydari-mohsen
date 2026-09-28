@@ -5,15 +5,16 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗦𝗸𝗶𝗹𝗹𝘀 :` 𝗛𝘁𝗺𝗹 - 𝗖𝗦𝗦 - 𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗥𝗲𝗮𝗰𝘁 - 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 - 𝗻𝗲𝘅𝘁.𝗷𝘀 ...`
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5?viewbox=auto" height="25" alt="HTML">
+  <img src="https://cdn.simpleicons.org/html5?viewbox=auto" height="28" alt="HTML">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3">
-  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto" height="25" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/typescript?viewbox=auto" height="25" alt="TypeScript">
-  <img src="https://cdn.simpleicons.org/react?viewbox=auto" height="25" alt="React">
-  <img src="https://cdn.simpleicons.org/redux?viewbox=auto" height="25" alt="Redux">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="25" alt="Webpack">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="Next.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python">
+  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto" height="28" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/typescript?viewbox=auto" height="28" alt="TypeScript">
+  <img src="https://cdn.simpleicons.org/react?viewbox=auto" height="28" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="28" alt="Webpack">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js">
+  <img src="https://cdn.simpleicons.org/redux?viewbox=auto" height="28" alt="Redux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python">
 </p>
 
 ---

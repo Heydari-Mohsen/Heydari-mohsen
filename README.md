@@ -16,6 +16,10 @@
 </table>
 
 </div>
+
+
+
+
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5?viewbox=auto" height="26" alt="HTML">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3">
@@ -27,6 +31,30 @@
   <img src="https://cdn.simpleicons.org/redux?viewbox=auto" height="26" alt="Redux">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="Python">
 </p>
+
+
+
+
+
+<div align="center">
+
+###  Contact Me:
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href=""_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
 
 ---
 

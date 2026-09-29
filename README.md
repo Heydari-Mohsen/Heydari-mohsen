@@ -1,9 +1,21 @@
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝐍𝐚𝐦𝐞 : `𝐌𝐨𝐡𝐬𝐞𝐧 𝐇𝐞𝐲𝐝𝐚𝐫𝐢`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝐁𝐢𝐫𝐭𝐡𝐝𝐚𝐲 : `𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟎𝟐`
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : `𝗠𝗮𝘀𝘁𝗲𝗿'𝘀 𝘀𝘁𝘂𝗱𝗲𝗻𝘁`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗶𝗲𝗹𝗱 𝗼𝗳 𝗪𝗼𝗿𝗸:` 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁...`
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 𝗘𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 :` 𝗛𝘁𝗺𝗹 - 𝗖𝗦𝗦 - 𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗥𝗲𝗮𝗰𝘁 - 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 - 𝗻𝗲𝘅𝘁.𝗷𝘀 ...`
+<div align="center">
+
+<table>
+  <tr>
+    <td>● 𝐍𝐚𝐦𝐞 : <code>𝐌𝐨𝐡𝐬𝐞𝐧 𝐇𝐞𝐲𝐝𝐚𝐫𝐢</code></td>
+    <td>● 𝐁𝐢𝐫𝐭𝐡𝐝𝐚𝐲 : <code>𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟎𝟐</code></td>
+  </tr>
+  <tr>
+    <td>● 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : <code>𝗠𝗮𝘀𝘁𝗲𝗿'𝘀 𝘀𝘁𝘂𝗱𝗲𝗻𝘁</code></td>
+    <td>● 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗶𝗲𝗹𝗱 𝗼𝗳 𝗪𝗼𝗿𝗸 : <code>𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁...</code></td>
+  </tr>
+  <tr>
+    <td colspan="2">● 𝗘𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 : <code>𝗛𝘁𝗺𝗹 - 𝗖𝗦𝗦 - 𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁 - 𝗥𝗲𝗮𝗰𝘁 - 𝗪𝗲𝗯𝗽𝗮𝗰𝗸 - 𝗻𝗲𝘅𝘁.𝗷𝘀 ...</code></td>
+  </tr>
+</table>
+
+</div>
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5?viewbox=auto" height="26" alt="HTML">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3">

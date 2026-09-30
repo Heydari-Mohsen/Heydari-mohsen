@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,50:0077B6,100:B0B0B0&height=80&section=header&text=IN%20GOD%20WE%20TRUST&fontSize=9&fontColor=F0F0F0&fontFamily=Segoe%20UI&animation=fadeIn&fontAlign=50&fontAlignY=20" width="100%"/>
+</div>
 <div align="center">
 
 <table>
@@ -69,3 +71,6 @@
 ᴡʜᴀᴛ ɪꜱ ᴏɴʟʏ ᴀ ʟɪɴᴇ ᴏꜰ ᴄᴏᴅᴇ ᴛᴏᴅᴀʏ ᴡɪʟʟ ʙᴇᴄᴏᴍᴇ ᴘᴀʀᴛ ᴏꜰ ᴀ ᴅʀᴇᴀᴍ</br>
 ᴛʜᴀᴛ ʜᴀꜱ ʟɪᴠᴇᴅ ɪɴ ᴍʏ ᴍɪɴᴅ ꜰᴏʀ ʏᴇᴀʀꜱ.
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,50:0077B6,100:B0B0B0&height=80&section=footer" width="100%"/>
+</div>

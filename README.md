@@ -48,8 +48,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsenheydari2002@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mohsenheydari2002-FFFFFF?style=for-the-badge&logo=gmail&logoColor=8B1A2E&labelColor=000000"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohseneheydari.2002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mohseneheydari.2002-FFFFFF?style=for-the-badge&logo=gmail&logoColor=8B1A2E&labelColor=000000"/>
 </a> 
 &nbsp
 <a href=""_blank">
